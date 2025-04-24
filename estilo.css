@@ -135,6 +135,8 @@ h3 {
 /* Seção Serviços */
 #servicos {
     background-color: white;
+    width: auto;
+    height: auto;
 }
 
 .servicos-grid {
